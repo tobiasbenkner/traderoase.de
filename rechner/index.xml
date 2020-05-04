@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rechners on My New Hugo Site</title>
+    <link>https://traderoase.de/rechner/</link>
+    <description>Recent content in Rechners on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://traderoase.de/rechner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://traderoase.de/rechner/frugalistenrechner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://traderoase.de/rechner/frugalistenrechner/</guid>
+      <description>Wann kann ich in Rente gehen? Du musst kein Millionär sein, um schon deutlich früher als mit 67 in Rente zu gehen – etwa mit 30 oder 40. Es kommt dabei vor allem auf deine Sparquote an. Je weniger Geld du zum Leben brauchst, desto mehr kannst du von deinem Einkommen zurücklegen – und desto weniger musst du ansparen, bis du von den Kapitalerträgen deines Vermögens leben kannst.
+https://frugalisten.de/rechner/</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://traderoase.de/rechner/sparrechner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://traderoase.de/rechner/sparrechner/</guid>
+      <description>Sparrechner</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://traderoase.de/rechner/zinsrechner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://traderoase.de/rechner/zinsrechner/</guid>
+      <description>Zinsrechner</description>
+    </item>
+    
+  </channel>
+</rss>
